@@ -1,0 +1,37 @@
+# Dependencies
+*.pyc
+__pycache__/
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Models and data
+*.pth
+*.pt
+*.pkl
+models/
+data/
+
+# Build output
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+*.gem
+
+# OS
+.DS_Store
+Thumbs.db
