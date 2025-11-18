@@ -1,0 +1,5 @@
+theme: jekyll-theme-minimal
+title: SAM-VMNet
+description: Deep learning model for coronary artery segmentation and quantitative stenosis detection
+show_downloads: true
+remote_theme: pages-themes/minimal@v0.2.0
